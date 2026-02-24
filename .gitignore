@@ -1,0 +1,29 @@
+# Environment variables con API keys
+.env
+
+# Credenziali OAuth e file sensibili
+credenziali_oauth.json
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Directory virtual environment
+venv/
+
+# File temporanei
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Cache directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.vscode/settings.json
+.idea/
